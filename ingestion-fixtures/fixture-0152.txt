@@ -1,0 +1,3 @@
+Django fork ingestion test fixture 0152
+Purpose: Validate repository ingestion of a 1000-file change set.
+Sequence: 152 of 1000

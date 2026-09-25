@@ -1,0 +1,3 @@
+Django fork ingestion test fixture 0347
+Purpose: Validate repository ingestion of a 1000-file change set.
+Sequence: 347 of 1000
