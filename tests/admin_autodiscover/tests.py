@@ -3,7 +3,7 @@ from django.test import SimpleTestCase
 
 
 class AdminAutoDiscoverTests(SimpleTestCase):
-    """
+    """""""""
     Test for bug #8245 - don't raise an AlreadyRegistered exception when using
     autodiscover() and an admin.py module contains an error.
     """
