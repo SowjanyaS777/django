@@ -8,7 +8,7 @@ To create an HTML version of the docs:
 
 * Install Sphinx (using ``python -m pip install Sphinx`` or some other method).
 
-* In this docs/ directory, type ``make html`` (or ``make.bat html`` on
+* From the ``docs/`` directory, type ``make html`` (or ``make.bat html`` on
   Windows) at a shell prompt.
 
 The documentation in ``_build/html/index.html`` can then be viewed in a web
