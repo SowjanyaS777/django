@@ -1,3 +1,4 @@
 Django fork ingestion test fixture 0001
 Purpose: Validate repository ingestion of a 1000-file change set.
 Sequence: 1 of 1000
+Update: Validate ingestion of a modified existing file.
